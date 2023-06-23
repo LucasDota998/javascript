@@ -1,0 +1,30 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+}
+body{
+    
+}
+section{
+    margin: auto;
+    width: 500px;
+    height: 200px;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    background-color: rgb(57, 57, 131);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.623);
+}
+footer{
+    text-align: center;
+    font-style: italic;
+    padding-top: 20px;
+}
